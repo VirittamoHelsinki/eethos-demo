@@ -41,11 +41,11 @@ env:
 
   # ----------------- org related settings (only edit these) ----------------- #
 
-  organization_name: OctoCatOrg
+  organization_name: VirittamoHelsinki
   gh_app_key: ${{ secrets.APP_SECRET_KEY }}
   gh_app_id: ${{ secrets.APP_ID }}
   gh_app_installation_id: ${{ secrets.APP_INSTALLATION_ID }}
-  project_number: 17
+  project_number: 21
 
   # ----------------- apps/handles for github actions (ignore for now) ----------------- #
 
