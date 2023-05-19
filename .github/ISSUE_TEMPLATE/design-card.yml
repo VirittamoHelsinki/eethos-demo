@@ -2,7 +2,7 @@
 name: Design card template
 description: Use this when opening a design-related issue or feature.
 title: "[Design]: "
-labels: [Design 🎨]
+labels: [Design]
 # ----------- optional setting ----------- #
 # ----------- automatically assigns someone each time an issue is created ----------- #
 # assignees:

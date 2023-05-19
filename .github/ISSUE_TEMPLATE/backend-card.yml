@@ -2,7 +2,7 @@
 name: Backend card template
 description: Use this when opening a backend-related issue or feature.
 title: "[Backend]: "
-labels: [Backend ⚙️]
+labels: [Backend]
 # ----------- optional setting ----------- #
 # ----------- automatically assigns someone each time an issue is created ----------- #
 # assignees:
