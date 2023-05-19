@@ -1,2 +1,3 @@
-sallittu suurin määrä pöydässä on 4 henkilöä
+sallittu suurin määrä pöydässä on 6 henkilöä
 pöytä on hieman suurempi tavallisesta jotta voi pelata lautapelejä jotka vaativat tilaa
+
