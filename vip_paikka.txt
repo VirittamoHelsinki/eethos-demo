@@ -1,1 +1,3 @@
-halutaan highlightata asiakkaalle että pöytä on vip paikka josta täytyy maksaa normaali hintainen
+halutaan highlightata asiakkaalle 
+että pöytä on vip paikka josta 
+täytyy maksaa normaali hintainen hinta
